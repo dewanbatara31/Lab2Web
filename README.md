@@ -43,3 +43,7 @@ Pertanyaan dan Tugas
 
 Jawab :
 
+1.	Jadi dalam eksperimen saya .. saya menambah <body bgcolor="#ff9966"> ini untuk supaya background dapat berwarna semua hingga memenuhi layar computer dan seperti inilah hasil gambarnya : 
+
+![image](https://user-images.githubusercontent.com/56387936/114257889-17c4bb80-99ed-11eb-9036-b02f8da47a1a.png)
+
