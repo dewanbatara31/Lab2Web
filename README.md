@@ -28,3 +28,8 @@ Kemudian tambahkan tag untuk merujuk file css yang sudah dibuat pada bagian
 
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ![image](https://user-images.githubusercontent.com/56387936/114257483-9704c000-99ea-11eb-972b-5bd52e23f4a7.png)
+
+5.	Menambahkan CSS Selector 
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+![image](https://user-images.githubusercontent.com/56387936/114257539-cfa49980-99ea-11eb-9520-49e1699e2019.png)
+
