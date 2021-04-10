@@ -22,3 +22,6 @@ Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 4.	Membuat CSS Eksternal
  Buat file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ![image](https://user-images.githubusercontent.com/56387936/114257413-18a81e00-99ea-11eb-8dc0-3bc806e53191.png)
+
+Kemudian tambahkan tag untuk merujuk file css yang sudah dibuat pada bagian
+![image](https://user-images.githubusercontent.com/56387936/114257453-54db7e80-99ea-11eb-99cc-30f12e3ef519.png)
