@@ -59,3 +59,12 @@ Jawab :
 3. 	Jadi yang akan muncul di browser itu adalah CSS internal karena Kode CSS internal diletakkan di dalam bagian pada halaman HTML. Class dan ID bisa digunakan untuk merujuk pada kode CSS, namun hanya akan aktif pada halaman tersebut (hanya 1 halaman). CSS internal diletakkan di dalam tag < style></style >.
 
 ![33](https://user-images.githubusercontent.com/56387936/114258828-84db4f80-99f3-11eb-9650-9f49d116bf3d.JPG)
+
+4. Keduanya akan ditampilkan, karena Class merubah beberapa objek dengan settingan 
+yang sama sehingga tidak merubah id. Lalu Cara mendefinisikan style untuk id tertentu 
+adalah dengan menjadikannya sebagai selector menggunakan tanda pagar atau hash (#) 
+diikuti dengan nama atau nilai dari atribut id.Cara mendefinisikan style untuk class 
+tertentu adalah dengan menjadikannya sebagai selector menggunakan tanda titik atau dot 
+(.) diikuti dengan nama atau nilai dari atribut class.
+
+![123](https://user-images.githubusercontent.com/56387936/114258868-ee5b5e00-99f3-11eb-8967-26b067fbbe97.JPG)
