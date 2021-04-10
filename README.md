@@ -15,3 +15,7 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 3.	Menambahkan Inline CSS 
 Kemudian tambahkan deklarasi inline CSS pada tag seperti berikut.
 ![image](https://user-images.githubusercontent.com/56387936/114257330-75570900-99e9-11eb-9948-07044d2c3ed0.png)
+
+Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+![image](https://user-images.githubusercontent.com/56387936/114257370-c7982a00-99e9-11eb-8ef7-a5e936c4caa1.png)
+
