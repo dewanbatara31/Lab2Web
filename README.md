@@ -25,3 +25,6 @@ Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
 Kemudian tambahkan tag untuk merujuk file css yang sudah dibuat pada bagian
 ![image](https://user-images.githubusercontent.com/56387936/114257453-54db7e80-99ea-11eb-99cc-30f12e3ef519.png)
+
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
+![image](https://user-images.githubusercontent.com/56387936/114257483-9704c000-99ea-11eb-972b-5bd52e23f4a7.png)
