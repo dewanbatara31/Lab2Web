@@ -19,3 +19,6 @@ Kemudian tambahkan deklarasi inline CSS pada tag seperti berikut.
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 ![image](https://user-images.githubusercontent.com/56387936/114257370-c7982a00-99e9-11eb-8ef7-a5e936c4caa1.png)
 
+4.	Membuat CSS Eksternal
+ Buat file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
+![image](https://user-images.githubusercontent.com/56387936/114257413-18a81e00-99ea-11eb-8dc0-3bc806e53191.png)
