@@ -32,12 +32,17 @@ Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ![image](https://user-images.githubusercontent.com/56387936/114257483-9704c000-99ea-11eb-972b-5bd52e23f4a7.png)
 
 5.	Menambahkan CSS Selector 
+
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+
 ![image](https://user-images.githubusercontent.com/56387936/114257539-cfa49980-99ea-11eb-9520-49e1699e2019.png)
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
-Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+
+![image](https://user-images.githubusercontent.com/56387936/114257889-17c4bb80-99ed-11eb-9036-b02f8da47a1a.png)
+
 Pertanyaan dan Tugas
+
 1.	Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. 
 2.	Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya! 
 3.	Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! 
@@ -46,8 +51,6 @@ Pertanyaan dan Tugas
 Jawab :
 
 1.	Jadi dalam eksperimen saya .. saya menambah <body bgcolor="#ff9966"> ini untuk supaya background dapat berwarna semua hingga memenuhi layar computer dan seperti inilah hasil gambarnya : 
-
-![image](https://user-images.githubusercontent.com/56387936/114257889-17c4bb80-99ed-11eb-9036-b02f8da47a1a.png)
 
 2. Elemen h1 {...} yang dideklarasikan pada CSS mengacu pada style atau gaya teks saja yang ada di halaman awal web (sebagai header) atau memberi style CSS pada elemen HTML yang diingikan. Elemen h1 {...} mengacu pada Internal CSS yaitu menyisipkan CSS pada file HTML. sedangkan lemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan di dalam file index.html dalam pemanggilannya menggunakan id=" ". Elemen tersebut mengacu pada tampilan selector yang terdiri dari ID dan Class dimana ID selector ditandai dengan tanda pagar (#) di depannya.
 
