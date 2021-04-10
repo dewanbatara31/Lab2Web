@@ -11,3 +11,7 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
 ![image](https://user-images.githubusercontent.com/56387936/114257276-04175600-99e9-11eb-9757-54369118434c.png)
+
+3.	Menambahkan Inline CSS 
+Kemudian tambahkan deklarasi inline CSS pada tag seperti berikut.
+![image](https://user-images.githubusercontent.com/56387936/114257330-75570900-99e9-11eb-9948-07044d2c3ed0.png)
