@@ -47,3 +47,6 @@ Jawab :
 
 ![image](https://user-images.githubusercontent.com/56387936/114257889-17c4bb80-99ed-11eb-9036-b02f8da47a1a.png)
 
+3.	Elemen h1 {...} yang dideklarasikan pada CSS mengacu pada style atau gaya teks saja yang ada di halaman awal web (sebagai header) atau memberi style CSS pada elemen HTML yang diingikan. Elemen h1 {...} mengacu pada Internal CSS yaitu menyisipkan CSS pada file HTML. sedangkan lemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan di dalam file index.html dalam pemanggilannya menggunakan id=" ". Elemen tersebut mengacu pada tampilan selector yang terdiri dari ID dan Class dimana ID selector ditandai dengan tanda pagar (#) di depannya.
+
+4.	Jadi yang akan muncul di browser itu adalah CSS internal karena Kode CSS internal diletakkan di dalam bagian pada halaman HTML. Class dan ID bisa digunakan untuk merujuk pada kode CSS, namun hanya akan aktif pada halaman tersebut (hanya 1 halaman). CSS internal diletakkan di dalam tag < style></style >.
